@@ -1,1 +1,5 @@
-print('Hellou')
+a = 1342
+if (a >123 ):
+    print("Hello World")
+else:
+    print ("I hate World")
